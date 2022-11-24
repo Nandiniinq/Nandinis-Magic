@@ -1,10 +1,4 @@
-/*
-Name : Vanshul Kesharwani
-Date : 14/03/2022
-Version : 1.1.2
-Email : vkvanshulkesharwani54@gmail.com
-Further features : Add title, Mark a note as important, Separate notes by user, Add date and time on notes.
-*/
+
 
 // Calling showNotes function to load all notes at starting from local storage.
 showNotes();
